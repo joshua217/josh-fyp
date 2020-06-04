@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fgp-nlp-josh-fyp",
+  "private_key_id": "294bc4b423e67184ca774d89efcda34f1900a746",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQ3VpOegd6Jr2L\nzxX9zt78WYW+ZrLuMbgP9ym1VBpVcaV8UVD36u38KaWmWxhrj8R45xenpMSj3QHX\ndklGCmm2AO25LsJWdnfwVyBOS3KooDUGHrVIx+TmU487I/EzxqDiC6xitzaioP+X\nDqA5la2AqCcUxUBprYDeAyFo9iU4nybJo4VJyzN4TWq7pTkH5oumfN7i+PBbQMr7\ntZmsgQs3psjjRU8qtovvLBWgGJXTIfI4130EYlrSnmXqYJ1Mh0i2egFQSSoCW5Lz\nKcdnIaC7yTqRFXl48CPm9NBEQ9Y+ce1E0duCSpd9I2b+lmisEkVrQBBxjJEmtQVk\n53cTogrzAgMBAAECggEAVU98Ud6NDEsjk6X3rQ4gzUEBnFYVUq5TKI5DZnGeOfUr\n6z3JjSHTp/IY23yM2m5ECUAWzN5DhUzBslB5uFaLfBAgCUn8jdVgwvXLV7+AazjY\nv5GuaTZgm+VYdQcGv6erUfkDpeSAt+d7zibmse6dihXktJqm5yM7pjLwJA+Z/2hg\niMnMOv+5o8DtkuoTIPzyo2jaRpYGdsQy/eveWDme3trQo2V550GbxZL3oGO33mXa\nSGbP1MAR5JWSpj1tRi8CtUzNp7xOu9CoaSc5yrl8XCkRD3Zv+wkmwacBSACA3liG\nHKuXgqrc/lNywI9dXZxI4sl+fnCVoSioMQRZy+HOYQKBgQD8zHkK7igWG84eCe8p\n0gtgoD8h852RSBTQsJTrs4N/IYmtLykWMn3PA3DDyIfCoMm4ciEdUWs698tKofBF\nKN2UG75gslvUyFTApo96ihCp50ONE05g9z8iPnLCxmPMLFkPwj4Oy4afV08P+h6+\ns2n+LUVKqS6FRmafC9c4UVBjYQKBgQDTgnQo3CReWtx7pci6FwvwyzEJNE6FukmJ\nNER6WRqNZZWeINYa4q4GMwGMFIoHFQt3rGSOWCgAg4eOwROd3Zas2apQKyWExm3b\nMymee8ithRkih2YKkqfhT8fELZFhhn7J2H+cA6NRbQLQGb/1tGpqvbXnPbwC/oJ/\nj3NX/XVi0wKBgQCYyRfK9F9D5XAwlX53fxwjPRaK9YrguHjkHCUVQzyRRHrKMbua\nT8/bos+vdG4gwj7IfCnpZ0DwtbynEbJ+ihFJJ29rT8DSnHUkrkX/IJyrozsfc3Cm\niCgfETEY6QB98LuvG42YMYfem80L8fZM+XBxD3lWg2O7Zu4059oejn6QYQKBgQDL\nnMAaPaK9OpcaaURM8LbL/a+c/r/AuM7lyG1Los+O4wYfjdjPVPzWdu+8XGFr4/SA\nJnM/HNqVdAlhgblStejBSWFNf9vEcAl9hUlBikRr1r+Vn+a5sujuXBEhaASWcBVK\nVqKyHEZyspCMqN1EuYPgcfTVQXbnIv+ZsQ0G3bbNhQKBgQCKlt1Crn2xqkc6CuUU\nUJ4QsAca3ZL31sTfVA7acB/TW2uiadKl6+mFMqMTHfPZU21zBFAglCqWHrfpxI23\nt6bmL+s30kyHowsN6Le68bAKvdLXHYUuVBebZq73QE97TSycDTtS0AVsGGjixtwi\ng49f/SpQ6aWrkAh8A0EbyWFvjA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "josh-fyp@fgp-nlp-josh-fyp.iam.gserviceaccount.com",
+  "client_id": "102545060903359862167",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/josh-fyp%40fgp-nlp-josh-fyp.iam.gserviceaccount.com"
+}
